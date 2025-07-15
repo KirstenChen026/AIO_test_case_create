@@ -1,7 +1,0 @@
-{
-    "JiraUrl": "https://[company_domain].atlassian.net",
-    "AIO_BASE_URL": "https://tcms.aiojiraapps.com/aio-tcms/api/v1",
-    "user": "[user_email]",
-    "AIOToken": "[AIO_Token]",
-    "JiraToken": "[Jira_Token]"
-}
